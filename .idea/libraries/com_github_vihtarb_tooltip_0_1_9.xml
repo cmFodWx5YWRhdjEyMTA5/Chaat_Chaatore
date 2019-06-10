@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.vihtarb:tooltip-0.1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a8dce654b064fcf07c38ff162d05fb31965a8b82/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a8dce654b064fcf07c38ff162d05fb31965a8b82/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

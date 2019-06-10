@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">chaat chaatore</string>
+    <string name="action_settings">அமைப்பு</string>
+
+    <string name="email">appsarasan@gmail.com</string>
+    <string name="facebook_app_id">1798047600489070</string>
+    <string name="developer">Apps Arasan</string>
+    <string name="version">Version 1.0</string>
+
+    <!--<string name="website">http://www.appsarasan.com/</string>-->
+    <string name="facebook1">http://www.appsarasan.com/social_links.html</string>
+    <string name="privacypolicy">http://www.appsarasan.com/privacy_policy.html</string>
+    <string name="terms_conditions">http://www.appsarasan.com/terms-and-conditions.html</string>
+
+    <string name="store_name">market://search?q=pub:Apps+Arasan</string>
+    <string name="Store_name_1">http://play.google.com/store/apps/developer?id=Apps+Arasan</string>
+
+
+    <string name="pref_enable_push_notifications_title">அறிவிப்புகள்</string>
+    <string name="pref_enable_push_notifications_summery">முக்கியமான செய்திகளைப் பெற இயக்கு.</string>
+
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="admob_app_id">ca-app-pub-7983134666560184~6740555716</string>
+    <string name="banner">ca-app-pub-7983134666560184/6685124510</string>
+    <string name="intersitials">ca-app-pub-7983134666560184/6493552823</string>
+    <string name="rewarded_Ads">ca-app-pub-7983134666560184/7615062805</string>
+    <string name="number_of_stage_ad">6</string>
+
+    <string name="analytics_item_id_2">category</string>
+    <string name="analytics_item_name_2">category</string>
+    <string name="analytics_item_id_1">main</string>
+    <string name="analytics_item_name_1">main</string>
+
+
+    <!-- For Notification Actions -->
+
+    <string name="use_cat">false</string>
+    <string name="str_orange">#fe7b27</string>
+    <string name="str_green">#3cac69</string>
+    <string name="str_red">#FF4444</string>
+    <string name="str_yellow">#FFBB33</string>
+    <string name="str_sky_blue">#33B5E5</string>
+    <string name="basic_action_1">Delete</string>
+    <string name="basic_action_2">Action_2</string>
+    <string name="basic_del">Delete</string>
+
+    <string name="title_nav_app">ஆப்ஸ் அரசன் </string>
+    <string name="notification">அறிவிப்பு</string>
+
+    <string name="title_nav_email">மின்னஞ்சல்</string>
+
+    <string name="kelvikkenna">கேள்விக்கென்ன\nபதில் </string>
+    <string name="sariyaathaikandupidi">சரியானதை\nகண்டுபிடி </string>
+
+    <string name="home_page">முகப்பு</string>
+    <string name="settings_title">அமைப்பு</string>
+    <string name="title_social">முகநூல்</string>
+    <string name="fab_about">எங்களை பற்றி</string>
+    <string name="privacy">காப்பீட்டு ஆவணம்</string>
+    <string name="tems_conditions">விதிகளும் கட்டுப்பாடுகளும்</string>
+    <string name="fab_more">ஆப்ஸ் அரசன்</string>
+    <string name="fab_rate">மதிப்பீடு</string>
+    <string name="fab_share">பகிரவும்</string>
+
+    <string name="share_content">நாம் காணும் ஒவ்வொரு கனவுகளுக்கும் பலன் உண்டு. நாம் கண்ட கனவின் நேரத்தை பொருத்து அதன் பயன்கள் அமையுமாம்.
+        \n\n நீங்கள் PlayStore இலிருந்து இந்தப் பயன்பாட்டைப் பதிவிறக்கலாம்\n\n</string>
+
+    <string name="reset_msg">உங்கள் விளையாட்டை மீண்டும் தொடங்க விரும்பினால், தயவுசெய்து ஆம்! அல்லது இல்லை கிளிக் செய்யவும்!</string>
+    <string name="reset_title">உங்கள் விளையாட்டு மீண்டும் தொடங்க விரும்பினால்?</string>
+    <string name="reset_title_1">நீங்கள் இந்த பகுதியை விட்டு வெளியே செல்ல விரும்பினால்</string>
+    <string name="reset_yes">ஆம்</string>
+    <string name="reset_no">இல்லை</string>
+    <string name="reset_msg_1">வாழ்த்துக்கள்!</string>
+    <string name="reset_msg_2">வாழ்த்துக்கள்! விளையாட்டின் இந்த பகுதியை நீங்கள் முடித்துவிட்டீர்கள்.
+         புதிய நிலைகளை விளையாட மீண்டும் வர தயங்க வேண்டாம்.</string>
+
+    <string name="how_much_for_first_letter">10</string><!-- how much point you set for use that hint -->
+    <string name="how_much_for_bomb">15</string>
+    <string name="how_much_for_skip">5000</string>
+
+    <string name="first_letter_msg_1">விடையின் முதல் எழுத்தை அறியவேண்டுமா? 100 பொற்காசுகள் குறைக்கபடும்</string>
+    <string name="first_letter_msg_10">விடையின்  இரண்டாவது எழுத்தை அறியவேண்டுமா? 500 பொற்காசுகள் குறைக்கபடும்</string>
+    <string name="first_letter_msg_2">100 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="first_letter_msg_3">கண்டுபிடி 1 வது வார்த்தை தெரிந்து கொள்ள!</string>
+    <string name="first_letter_msg_4">கண்டுபிடி 2 வது வார்த்தை தெரிந்து கொள்ள!</string>
+    <string name="title">இந்த பகுதியை திறக்க</string>
+    <string name="title_0">இந்த பகுதியை திறக்க 300 பொற்காசுகள் குறைக்கபடும் </string>
+    <string name="title_1">இந்த பகுதியை திறக்க 500 பொற்காசுகள் குறைக்கபடும் </string>
+    <string name="title_2">இந்த பகுதியை திறக்க 800 பொற்காசுகள் குறைக்கபடும் </string>
+    <string name="title_3">இந்த பகுதியை திறக்க 1300 பொற்காசுகள் குறைக்கபடும் </string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="ok">சரி</string>
+
+    <string name="bomb_msg_1">தவறான மூன்று எழுத்துக்களை மறைக்க 500 பொற்காசுகள்  குறைக்கபடும் </string>
+    <string name="bomb_msg_10">தவறான மூன்று எழுத்துக்களை மறைக்க 300 பொற்காசுகள்  குறைக்கபடும் </string>
+    <string name="bomb_msg_2">500 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="bomb_msg_20">300 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="bomb_msg_3">3 எழுத்துக்களை மறை</string>
+    <string name="worde">தவறான 1 வார்த்தையை மறைய </string>
+    <string name="worde1">ஒரு வார்த்தயை மறைய 500 பொற்காசுகள் குறைக்கபடும்</string>
+
+    <string name="skip_msg_5">சரியான விடையை தெரிந்து கொள்ள மற்றும்  300 பொற்காசுகள் பெற</string>
+    <string name="skip_msg_51">200 பொற்காசுகள் பெற</string>
+
+    <string name="skip_msg_1"> இந்த கேள்வியைத் தவிர்க்க 300 பொற்காசுகள் குறைக்கபடும்</string>
+    <string name="skip_msg_2">300 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="skip_msg_500">500 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="skip_msg_800">800 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="skip_msg_130">1300 பொற்காசுகள் இருக்க வேண்டும்!</string>
+    <string name="skip_msg_3">இந்த பகுதியை திறக்க!</string>
+    <string name="next_page">அடுத்த பகுதிக்கு செல்ல  </string>
+    <string name="skip_msg_4">பொற்காசுகள் பெற</string>
+
+    <string name="point_give">1|50</string>
+    <string name="a">A</string>
+    <!-- Earn Coin Management -->
+    <string name="facebook">Facebook இல் பின்பற்ற-30 பொற்காசுகள்</string>
+    <string name="twitter">Twitter இல் பின்பற்ற-30 பொற்காசுகள்</string>
+    <string name="youtube">Youtube  இல் பின்பற்ற-50 பொற்காசுகள்</string>
+    <string name="rateapp">மதிப்பீடு -50 பொற்காசுகள்</string>
+    <string name="moreapp">மற்ற ஆப்ஸ் -50 பொற்காசுகள்</string>
+    <string name="website">வலைத்தளத்தைப் பார்வையிட -50 பொற்காசுகள்</string>
+    <string name="shareapp">இந்த ஆப்ஸ் பகிர -150 பொற்காசுகள்</string>
+
+    <string name="how_much_for_facebook_coins">30</string>
+    <string name="how_much_for_twitter_coins">30</string>
+    <string name="how_much_for_youtube_coins">50</string>
+    <string name="how_much_for_rateapp_coins">50</string>
+    <string name="how_much_for_moreapp_coins">50</string>
+    <string name="how_much_for_website_coins">50</string>
+    <string name="how_much_for_shareapp_coins">150</string>
+
+    <string name="facebook_link">https://www.facebook.com/brightideastamil/</string>
+    <string name="twitter_link">http://twitter.com/brightideastamil/</string>
+    <string name="youtube_link">https://www.youtube.com/channel/UCRJzXW1qqk_PzS2DKpwjH0g/videos</string>
+    <string name="website_link">http://www.appsarasan.com</string>
+
+
+
+    <string name="rate_dialog_cancel">பின்னர் நினைவூட்டும்</string>
+    <string name="rate_dialog_message">உங்களது வாழ்த்துக்கள் எங்களை உயர்த்தும். நன்றி !!</string>
+    <string name="rate_dialog_no">இல்லை</string>
+    <string name="rate_dialog_ok">ஆம்</string>
+    <string name="rate_dialog_title">மதிப்பீடு</string>
+
+    <string name="notification_delete">அனைத்து அறிவிப்புகளையும் நிச்சயமாக நீக்க விரும்புகிறீர்களா?</string>
+    <string name="yes_btn">ஆம்</string>
+    <string name="no_btn">இல்லை</string>
+
+
+    <string name="title_activity_category_selection">Category Selection</string>
+    <string name="end_content">இந்த கண்டுபிடி..கண்டுபிடி உங்களுக்கு பிடித்திருந்தால் நண்பர்களுடன் பகிர்ந்து உதவுங்கள். நன்றி</string>
+    <string name="no_notification">அறிவிப்பு இல்லை</string>
+    <string name="no_announcements">No notification</string>
+    <string name="downloading_wallpaper">Downloading Images....</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="share_wallpaper">Share Image</string>
+    <string name="isRTL">false</string>
+
+</resources>

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:63
+-keep class com.tamilgk3000.quizexams.MyApplication { <init>(...); }
+

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\webview_action.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\menu\\webview_action.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_wallpaper.xml",
+        "source": "D:\\Android projet\\Client projet\\app\\src\\main\\res\\menu\\menu_wallpaper.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\webview_action.xml",
+        "source": "D:\\Android projet\\Client projet\\app\\src\\main\\res\\menu\\webview_action.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "D:\\Android projet\\Client projet\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Android projet\\Client projet\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android projet\\Client projet\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

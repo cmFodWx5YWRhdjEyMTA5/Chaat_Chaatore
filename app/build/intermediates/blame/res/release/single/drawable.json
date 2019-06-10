@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4a16e4879518622aa9865fb0029e4434be306265\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_background_unselected.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\left.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cling_button_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\6ba64e3a4f65bed06aaa68a5fcdc9cb670ba938d\\output\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_facebook.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\speaker.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4bafecb6f5a210fb2193b243fcd93278fb5478c8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_nav_about.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_nav_about.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4bafecb6f5a210fb2193b243fcd93278fb5478c8\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wrong.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\wrong.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\player_bg.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\player_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_down.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_down.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\choose.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\choose.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\win.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\win.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\f2fedce151086836b510e06ca8f0ea5c2833f9fe\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\circle_bg.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rating_favorite.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\rating_favorite.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\0950ea9a0ca42684e03ed6a732d04107f1905434\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_bg.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text.gif",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\text.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\0950ea9a0ca42684e03ed6a732d04107f1905434\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\txt_right_ans.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\txt_right_ans.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_otherapps.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_otherapps.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\item_divider_horizontal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\79e44b8737d3b7d04ebebe7ae56406c0ae2076e4\\output\\res\\drawable\\item_divider_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_red.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_red.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\item_divider_vertical.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\79e44b8737d3b7d04ebebe7ae56406c0ae2076e4\\output\\res\\drawable\\item_divider_vertical.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\8453b9db30e24e1f26ce53225ed3afcf9e576bb3\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\008ea4821f36a4329962d9fbb2927116c4aa8e99\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pothu.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\pothu.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\f2fedce151086836b510e06ca8f0ea5c2833f9fe\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_blue.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_blue.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_green.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_green.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4bafecb6f5a210fb2193b243fcd93278fb5478c8\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_background_selected.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\num_bg.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\num_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_blues.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_blues.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_nav_rate.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_nav_rate.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\banner2.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\banner2.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_mail.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_mail.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_targblue.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_targblue.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\6ba64e3a4f65bed06aaa68a5fcdc9cb670ba938d\\output\\res\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\type.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\type.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_orange.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_orange.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kanavu.jpg",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\kanavu.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\help.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\0950ea9a0ca42684e03ed6a732d04107f1905434\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\whiteborder.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\txt_wrong_ans.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\txt_wrong_ans.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lock.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_blue1.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_blue1.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_2.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_2.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\6ba64e3a4f65bed06aaa68a5fcdc9cb670ba938d\\output\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_copy.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_copy.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_yellow.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_yellow.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_skyblue.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_skyblue.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\f2fedce151086836b510e06ca8f0ea5c2833f9fe\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sleep.jpg",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\sleep.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_back.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_timer.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_timer.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\008ea4821f36a4329962d9fbb2927116c4aa8e99\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_gre.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_gre.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_delete.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tips.gif",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\tips.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_privacy.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_privacy.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25904a33064404145a44bdb1f6ef8e3f46bb72c1\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\terms_and_conditions.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\terms_and_conditions.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_yelow.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_yelow.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\8453b9db30e24e1f26ce53225ed3afcf9e576bb3\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\banner1.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\banner1.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_nav_setting.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_nav_setting.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\speaker_1.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\speaker_1.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\8453b9db30e24e1f26ce53225ed3afcf9e576bb3\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\f2fedce151086836b510e06ca8f0ea5c2833f9fe\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next.gif",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\next.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\21852cf0bfb302518f700327c6aab08570ea2d87\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\8453b9db30e24e1f26ce53225ed3afcf9e576bb3\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rating_good.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\rating_good.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\delete.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_no_item.png",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\ic_no_item.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\25d612e334f19e18fd90b0f9b7c49fc4fad27e8f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4bafecb6f5a210fb2193b243fcd93278fb5478c8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4bafecb6f5a210fb2193b243fcd93278fb5478c8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border1.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border1.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_1.xml",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\drawable\\border_1.xml"
+    }
+]

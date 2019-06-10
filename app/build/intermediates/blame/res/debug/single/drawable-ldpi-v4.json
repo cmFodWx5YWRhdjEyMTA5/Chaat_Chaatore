@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_insta.png",
+        "source": "D:\\Android projet\\Client projet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_insta.png"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_location.png",
+        "source": "D:\\Android projet\\Client projet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_food_menu.png",
+        "source": "D:\\Android projet\\Client projet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_food_menu.png"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fb.png",
+        "source": "D:\\Android projet\\Client projet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_fb.png"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\md_nav_back.png",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\9e5b99fc2e7426acea702c0879148a6ad49b4058\\output\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_call.png",
+        "source": "D:\\Android projet\\Client projet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_location_on_black_24dp.png",
+        "source": "D:\\Android projet\\Client projet\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\md_nav_back.png",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\2f1895538317a6610a77acc408213be800a770a0\\output\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    }
+]

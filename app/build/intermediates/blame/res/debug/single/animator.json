@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\scale_with_alpha.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\1f8d9014e2f05f452cfe53aa9037eaff5895d987\\output\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\Android projet\\Client projet\\app\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\debug\\animator\\scale_with_alpha.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\4a16e4879518622aa9865fb0029e4434be306265\\output\\res\\animator\\scale_with_alpha.xml"
+    }
+]

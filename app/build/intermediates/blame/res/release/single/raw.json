@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\raw\\click.mp3",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\raw\\click.mp3"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\raw\\clap.mp3",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\raw\\clap.mp3"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\raw\\custom.mp3",
+        "source": "E:\\Ravi\\GK  project\\Gk\\app\\src\\main\\res\\raw\\custom.mp3"
+    },
+    {
+        "merged": "E:\\Ravi\\GK  project\\Gk\\app\\build\\intermediates\\res\\merged\\release\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\aea89a29a150d53ccdbd81751c260585987e33c5\\output\\res\\raw\\consumer_onesignal_keep.xml"
+    }
+]
